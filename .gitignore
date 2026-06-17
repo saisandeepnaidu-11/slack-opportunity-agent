@@ -1,0 +1,18 @@
+# Local environment config
+.env
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Python cache / compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# User-specific / temp files
+processed_opportunities.txt
+test_run.py
